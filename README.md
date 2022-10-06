@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQHiw32ufBAUHg/profile-displaybackgroundimage-shrink_350_1400/0/1658958548399?e=1664409600&v=beta&t=Px1gPEpQuVWBFkTNgaOWG_oOp5H-1yU6uNNVzsvB0ho)
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEVNIEc5blE2g/profile-displaybackgroundimage-shrink_200_800/0/1663678010360?e=2147483647&v=beta&t=_bMzxWl87-jUlGOl5s_5nP0FNZAIvCffIIQhuKsBHH0)
 <h1 align="center">Hi 👋, I'm Aziz Chakara</h1>
 <h3 align="center">Front End Engineer</h3>
 
